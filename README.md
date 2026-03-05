@@ -1,4 +1,4 @@
-# AutoKick
+# AutoKick for Ayaneo Pocket S2
 
 AutoKick is a small Android utility that automatically “unsticks” certain emulators when they freeze by performing a very fast notification shade open/close (“shade blink”). It runs as a foreground service and uses **Shizuku** to run the required shell commands.
 
