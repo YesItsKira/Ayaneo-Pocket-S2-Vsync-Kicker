@@ -57,3 +57,12 @@ To reduce false triggers (menus/paused screens), AutoKick uses a “probe” kic
   and restores your previous values when you leave the emulator or stop the service.
 
   The app will monitor for when the GitHub updates apps with the issue and will automatically add detection to your installed app when online.
+
+  ## Credits
+Created by **YesItsKira**.
+
+
+I dont charge for any of my projects and make them free for the communities they are in. If you like my stuff, id appreciate a tip!
+
+https://ko-fi.com/yesitskira
+
